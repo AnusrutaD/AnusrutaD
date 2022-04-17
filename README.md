@@ -11,7 +11,7 @@
 - 🧑🏻‍💻 Working on Backend Application with Microservices Architecture
 - 🦿 Learning Cloud With Amozon Web Services
 - 🌎 Open source contributor
-- 📝 Writer at Quora 
+- 📝 Writer at Quora
 
 <img src="https://komarev.com/ghpvc/?username=AnusrutaD&color=green" alt="AnusrutaD" />
 <img src="https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="AnusrutaD" />
