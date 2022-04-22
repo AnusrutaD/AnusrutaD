@@ -9,7 +9,7 @@
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 🧑🏻‍💻 Working on Backend Application with Microservices Architecture
-- 🦿 Learning Cloud With Amozon Web Services 
+- 🦿 Learning Cloud With Amazon Web Services 
 - 🌎 Open source contributor
 - 📝 Writer at Quora
 
