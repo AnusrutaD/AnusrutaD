@@ -16,8 +16,8 @@
 ![VUE.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🧑🏻‍💻 Working on Backend Application with Microservices Architecture
-- 🦿 Learning Cloud With Amazon Web Services 
+- 🧑🏻‍💻 Doing on Backend developement for a LMS tool based on .Net
+- 🦿 Learning vue.js and learning about frontend 
 - 🌎 Open source contributor
 - 📝 Writer at Quora
 
@@ -26,3 +26,5 @@
 
 <a href="https://www.linkedin.com/in/anusruta-dutta/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AnusrutaD" /></a>
 <a href="https://twitter.com/Anusruta" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="AnusrutaD" /></a>
+<a href="(https://www.quora.com/profile/ANUSRUTA-DUTTA/)" target="blank"><img align="center" src="(https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)" alt="AnusrutaD" /></a>
+<a href="(https://leetcode.com/anusruta_dutta/)" target="blank"><img align="center" src="(https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)" alt="AnusrutaD" /></a>
