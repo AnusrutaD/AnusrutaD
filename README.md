@@ -24,9 +24,7 @@
 <img src="https://komarev.com/ghpvc/?username=AnusrutaD&color=green" alt="AnusrutaD" />
 <img src="https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="AnusrutaD" />
 
-<a href="https://www.linkedin.com/in/anusruta-dutta/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AnusrutaD" /></a>
-<a href="https://twitter.com/Anusruta" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="AnusrutaD" /></a>
-<a href="(https://www.quora.com/profile/ANUSRUTA-DUTTA/)" target="blank"><img align="center" src="(https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)" alt="AnusrutaD" /></a>
-<a href="(https://leetcode.com/anusruta_dutta/)" target="blank"><img align="center" src="(https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)" alt="AnusrutaD" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusruta-dutta/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anusruta)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/ANUSRUTA-DUTTA/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/anusruta_dutta/)
