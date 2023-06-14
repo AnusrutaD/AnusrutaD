@@ -1,5 +1,7 @@
 ## Hi there 👋, I am Anusruta Dutta
+I'm a passionate backend developer with expertise in Java, Spring, Spring Boot, and .NET. I strive to create robust and efficient backend systems for Learning Management Systems (LMS), ensuring seamless user experiences and effective content management.
 
+### Technologies I work with:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -16,10 +18,14 @@
 ![VUE.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🧑🏻‍💻 Currently, I am actively involved in Backend development for a Learning Management System (LMS) tool, utilizing the power of .Net technology. My focus is on creating robust and efficient backend systems that support the smooth functioning of the LMS, ensuring seamless user experiences and effective management of educational content.
-- 🦿 As a passionate learner, I am currently immersing myself in the world of Vue.js and frontend development. I am keen on expanding my skill set and exploring the intricacies of building engaging user interfaces and interactive web applications. By mastering Vue.js, I aim to enhance my ability to create dynamic and responsive frontend solutions.
+### Here's what I'm currently up to:
+
+- 🧑🏻‍💻 I'm actively involved in backend development for a Learning Management System (LMS) tool using .NET technology. I focus on creating robust and efficient backend systems that support the smooth functioning of the LMS, ensuring seamless user experiences and effective content management.
+-🦿 As a passionate learner, I'm currently immersing myself in the world of Vue.js and frontend development. I'm keen on expanding my skill set and exploring the intricacies of building engaging user interfaces and interactive web applications. By mastering Vue.js, I aim to enhance my ability to create dynamic and responsive frontend solutions.
 - 🌎 Contributing to open source projects is one of my priorities. By actively participating in open source initiatives, I collaborate with other developers to build innovative and accessible software solutions that benefit the wider community. I believe in the power of collaboration and the positive impact it can have on driving technological advancements.
 - 📝 Additionally, I enjoy sharing my knowledge and experiences with others. As a writer on Quora, I regularly contribute to the platform by providing insightful answers, sharing valuable information, and engaging in meaningful discussions. Writing allows me to connect with a diverse audience and contribute to the knowledge-sharing ecosystem.
+
+### Find me around the web:
 
 <img src="https://komarev.com/ghpvc/?username=AnusrutaD&color=green" alt="AnusrutaD" />
 <img src="https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="AnusrutaD" />
