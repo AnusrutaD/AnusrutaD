@@ -33,7 +33,8 @@ I'm a passionate backend developer with expertise in Java, Spring, Spring Boot, 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/anusruta_dutta/)
 
 ### Profile views and stats:
-<img src="https://komarev.com/ghpvc/?username=AnusrutaD&color=green" alt="Profile views" />
-<img src="https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="GitHub stats" />
+![Profile views](https://komarev.com/ghpvc/?username=AnusrutaD&color=green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
+
 
 
