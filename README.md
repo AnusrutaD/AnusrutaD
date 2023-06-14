@@ -32,7 +32,8 @@ I'm a passionate backend developer with expertise in Java, Spring, Spring Boot, 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/ANUSRUTA-DUTTA/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/anusruta_dutta/)
 
-<img src="https://komarev.com/ghpvc/?username=AnusrutaD&color=green" alt="AnusrutaD" />
-<img src="https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="AnusrutaD" />
+### Profile views and stats:
+<img src="https://komarev.com/ghpvc/?username=AnusrutaD&color=green" alt="Profile views" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="GitHub stats" />
 
 
