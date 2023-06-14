@@ -27,10 +27,12 @@ I'm a passionate backend developer with expertise in Java, Spring, Spring Boot, 
 
 ### Find me around the web:
 
-<img src="https://komarev.com/ghpvc/?username=AnusrutaD&color=green" alt="AnusrutaD" />
-<img src="https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="AnusrutaD" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusruta-dutta/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anusruta)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/ANUSRUTA-DUTTA/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/anusruta_dutta/)
+
+<img src="https://komarev.com/ghpvc/?username=AnusrutaD&color=green" alt="AnusrutaD" />
+<img src="https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs" alt="AnusrutaD" />
+
+
