@@ -34,6 +34,7 @@ I'm a passionate backend developer with expertise in Java, Spring, Spring Boot, 
 
 ### Profile views and stats:
 ![Profile views](https://komarev.com/ghpvc/?username=AnusrutaD&color=green)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnusrutaD&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
 
 
